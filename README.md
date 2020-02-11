@@ -1,6 +1,6 @@
 # Bank account project service API
 
-Launch BankApplication.java starter.
+Launch BankApplication.java starter.\n
 The server url is http://localhost:8081/
 
 # Endpoints
