@@ -1,11 +1,11 @@
 # Bank account project service API
 
-Launch BankApplication.java starter.  
-The server url is http://localhost:8081/
+Launch <strong>BankApplication.java</strong> starter.  
+The server url is <strong>http://localhost:8081/</strong>
 
 # Endpoints
-/Deposit?amount=100 : to deposit 100 euros in the bank account.  
-/withdraw?amount=100 : to withdraw 100 euros from the bank account.  
-/bankAccountBalance : to display the account balance.  
-/creationDate : to dislay the account creation date.  
-/statements : to display the history of the operations.
+<strong>/Deposit?amount=100</strong> : to deposit 100 euros in the bank account.  
+<strong>/withdraw?amount=100</strong> : to withdraw 100 euros from the bank account.  
+<strong>/bankAccountBalance</strong> : to display the account balance.  
+<strong>/creationDate</strong> : to dislay the account creation date.  
+<strong>/statements</strong> : to display the history of the operations.
